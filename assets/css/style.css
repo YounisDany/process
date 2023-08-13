@@ -1,6 +1,6 @@
 /**
 * Template Name: Valera
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
+* Updated: Mar 10 2023 with Bootstrap v5.2.3
 * Template URL: https://bootstrapmade.com/valera-free-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -10,12 +10,12 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #444444;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
+  color: #6d3d88;
 }
 
 a {
-  color: #ff7f5d;
+  color: #d48a01;
   text-decoration: none;
 }
 
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -133,6 +133,7 @@ h6 {
   font-size: 30px;
   margin: 0;
   padding: 0;
+  padding-top: 10;
   line-height: 1;
   font-weight: 500;
   letter-spacing: 0.5px;
@@ -144,7 +145,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 .scrolled-offset {
@@ -500,7 +501,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -614,7 +615,7 @@ section {
 }
 
 .about .content .btn-learn-more {
-  font-family: "Raleway", sans-serif;
+  font-family: "SF-Pro-AR-DisplaySemibold", sans-serif;
   font-weight: 600;
   font-size: 14px;
   letter-spacing: 1px;
@@ -651,7 +652,7 @@ section {
 .counts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   font-size: 14px;
 }
 
@@ -761,8 +762,6 @@ section {
 }
 
 .services .icon {
-  position: absolute;
-  left: -20px;
   top: calc(50% - 30px);
 }
 
@@ -896,7 +895,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1186,7 +1185,7 @@ section {
   font-size: 36px;
   color: #ff7f5d;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   margin-bottom: 20px;
 }
 
@@ -1242,7 +1241,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Raleway", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1295,7 +1294,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1560,7 +1559,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "SF Pro AR Display Semibold", sans-serif;
   padding-bottom: 0;
   margin-bottom: 0;
 }
