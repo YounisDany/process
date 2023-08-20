@@ -117,6 +117,8 @@ h6 {
 @media (max-width: 992px) {
   #header {
     height: 60px;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 }
 
@@ -153,6 +155,7 @@ h6 {
 }
 
 @media (max-width: 991px) {
+  
   .scrolled-offset {
     margin-top: 60px;
   }
@@ -185,6 +188,8 @@ h6 {
 @media (max-width: 768px) {
   .header-social-links {
     padding: 0 15px 0 0;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 }
 
@@ -322,6 +327,8 @@ h6 {
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 
   .navbar .dropdown .dropdown:hover>ul {
@@ -344,6 +351,8 @@ h6 {
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 
   .navbar ul {
@@ -459,6 +468,8 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     margin-bottom: -60px;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 }
 
@@ -522,6 +533,8 @@ h6 {
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 }
 
@@ -529,6 +542,8 @@ h6 {
   #hero h1 {
     font-size: 30px;
     line-height: 36px;
+      font-family: "SF Pro AR Display Semibold", sans-serif;
+
   }
 
   #hero h2 {
