@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   color: #6d3d88;
 }
 
@@ -30,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -117,7 +117,7 @@ h6 {
 @media (max-width: 992px) {
   #header {
     height: 60px;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 }
@@ -188,7 +188,7 @@ h6 {
 @media (max-width: 768px) {
   .header-social-links {
     padding: 0 15px 0 0;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 }
@@ -327,7 +327,7 @@ h6 {
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
     left: -90%;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 
@@ -351,7 +351,7 @@ h6 {
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 
@@ -468,7 +468,7 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     margin-bottom: -60px;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 }
@@ -512,7 +512,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -533,7 +533,7 @@ h6 {
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 }
@@ -542,7 +542,7 @@ h6 {
   #hero h1 {
     font-size: 30px;
     line-height: 36px;
-      font-family: "SF Pro AR Display Semibold", sans-serif;
+      font-family: "Tajawal", sans-serif;
 
   }
 
@@ -667,7 +667,7 @@ section {
 .counts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   font-size: 14px;
 }
 
@@ -910,7 +910,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1200,7 +1200,7 @@ section {
   font-size: 36px;
   color: #ff7f5d;
   font-weight: 600;
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   margin-bottom: 20px;
 }
 
@@ -1256,7 +1256,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1309,7 +1309,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1574,7 +1574,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: "SF Pro AR Display Semibold", sans-serif;
+  font-family: "Tajawal", sans-serif;
   padding-bottom: 0;
   margin-bottom: 0;
 }
