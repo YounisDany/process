@@ -570,7 +570,43 @@ Horizon Cooperates with a large number of companies and clients in various indus
     </footer>
     <!-- End Footer -->
 
-
+<script>
+                var url = 'https://wati-integration-prod-service.clare.ai/v2/watiWidget.js?92193';
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = url;
+                var options = {
+                "enabled":true,
+                "chatButtonSetting":{
+                    "backgroundColor":"#00e785",
+                    "ctaText":"Chat with us",
+                    "borderRadius":"25",
+                    "marginLeft": "0",
+                    "marginRight": "20",
+                    "marginBottom": "20",
+                    "ctaIconWATI":false,
+                    "position":"right"
+                },
+                "brandSetting":{
+                    "brandName":"هورايزن | Horizon",
+                    "brandSubTitle":"undefined",
+                    "brandImg":"https://www.horizon-ye.com/logos.png",
+                    "welcomeText":"مرحبا \nكيف يمكننا مساعدتك ؟",
+                    "messageText":"مرحبا اريد الاستعلام عن ",
+                    "backgroundColor":"#00e785",
+                    "ctaText":"Chat with us",
+                    "borderRadius":"25",
+                    "autoShow":false,
+                    "phoneNumber":"967777888831"
+                }
+                };
+                s.onload = function() {
+                    CreateWhatsappChatWidget(options);
+                };
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            </script>
     <a href="https://wa.me/967777888831" class="back-to-top d-flex align-items-center justify-content-center"><i class="bx bxl-whatsapp"></i></a>
 
     <!-- Vendor JS Files -->
