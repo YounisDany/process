@@ -13,7 +13,13 @@ body {
   font-family: "Tajawal", sans-serif;
   color: #6d3d88;
 }
+@media (max-width: 992px) {
+  body {
+    height: 60px;
+      font-family: "Tajawal", sans-serif;
 
+  }
+}
 a {
   color: #d48a01;
   text-decoration: none;
